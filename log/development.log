@@ -1,0 +1,906 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-02-08 22:21:02) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-02-08 22:21:05) [GET]
+
+ActionController::RoutingError (No route matches "/main/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-02-08 22:21:09) [GET]
+
+ActionController::RoutingError (No route matches "/main/index" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 22:21:54) [GET]
+
+ActionView::MissingTemplate (Missing template main/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 22:29:38) [GET]
+
+ActionView::MissingTemplate (Missing template main/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 22:29:40) [GET]
+
+ActionView::MissingTemplate (Missing template main/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 22:29:49) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 65ms (View: 64, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 22:29:50) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 22:30:45) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 22:39:40) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:00:30) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:03:57) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:09:51) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:09:52) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:17:38) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:31:40) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:32:13) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-02-08 23:32:38) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:35:57) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-02-08 23:35:57) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/application.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:35:59) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-02-08 23:35:59) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/application.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:38:43) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:39:19) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:39:29) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:39:34) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:40:07) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:40:15) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:40:33) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:40:42) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:41:18) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:41:27) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:41:36) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:41:57) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:42:32) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:42:47) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:42:56) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:43:10) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:43:15) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:45:28) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:47:00) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:47:27) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:48:32) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 63ms (View: 62, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:48:40) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:48:52) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:49:02) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:49:57) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:50:29) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:50:38) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:50:51) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:51:02) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:51:36) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:51:41) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:54:23) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:54:43) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:55:06) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:55:10) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:55:17) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:55:35) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:57:12) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 62ms (View: 61, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:57:14) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:58:20) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:59:00) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-08 23:59:14) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:01:56) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:02:02) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:04:30) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:04:34) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:04:45) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:05:37) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:05:40) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:06:04) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:08:49) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:09:08) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:09:57) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:10:55) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:13:03) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 61ms (View: 60, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-02-09 00:13:40) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:13:59) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:14:20) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:14:40) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:14:54) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:15:12) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:15:25) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:16:00) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:18:04) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:18:30) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:18:46) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-02-09 00:19:08) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:19:11) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/main/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:19:33) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:19:53) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/main/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:20:11) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:20:28) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 59ms (View: 2, DB: 0) | 200 OK [http://localhost/main/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:21:03) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:21:20) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:21:47) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:21:53) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:22:33) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:22:46) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:22:50) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:23:01) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:23:06) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:23:20) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:24:48) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:25:11) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:25:20) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:32:14) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:32:31) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:35:15) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:35:35) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 55ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:36:12) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:36:28) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:37:44) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:38:11) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:38:27) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:38:39) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:39:01) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:39:12) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:40:10) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:40:19) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:40:22) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:41:08) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:41:22) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:42:00) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:42:12) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:42:46) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:42:53) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:43:27) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main?]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:43:32) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:43:57) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-02-09 00:44:20) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:44:25) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:44:35) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:44:50) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:47:46) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:47:57) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:48:11) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:48:53) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:48:59) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:49:15) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:49:54) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:50:00) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:50:54) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:51:15) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:53:10) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2010-02-09 00:53:20) [GET]
+Rendering template within layouts/application
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/main]

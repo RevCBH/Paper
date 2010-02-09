@@ -1,0 +1,11 @@
+!!! Strict
+%html
+  = stylesheet_link_tag "application"
+  %body
+    #insert-element-popup
+      %form{:action => '#', :onsubmit => 'return false;'}
+        %input#search-box{:type => 'text'}
+        %input#dummy{:style => 'display: none;' }
+      
+  = javascript_include_tag "jquery.js"
+  = javascript_include_tag "application.js"

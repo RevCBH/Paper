@@ -1,0 +1,14 @@
+body {
+  background: #d5d5d5; }
+  body #insert-element-popup {
+    display: none;
+    position: absolute;
+    top: 2em;
+    left: 2em;
+    background: white;
+    border: 4px solid black; }
+    body #insert-element-popup #search-box {
+      height: 1.5em;
+      width: 15em;
+      font-size: 1.5em;
+      border: none; }
