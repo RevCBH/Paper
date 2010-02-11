@@ -1,12 +1,13 @@
-!bodyBackground = gray + #555
+!bodyBackground = AliceBlue
 
 body
   :background = !bodyBackground
+  
   #insert-element-popup
     :display none
     :position absolute
-    :top 2em
-    :left 2em
+    :top 1.5em
+    :left 1.5em
     
     :background white
     :border 4px solid black
@@ -17,3 +18,49 @@ body
     
       :font-size 1.5em
       :border none
+      
+  .button
+    //:position absolute
+    :height 1.5em
+    :width 5em
+    
+    :font-size 1em
+    :background = white
+    :border 2px solid black
+    :color black
+    
+  #palette
+    //:display none
+    //:height 10em
+    //:width 5em
+    
+    :position absolute
+    :top 5.5em
+    :left 1.5em
+    
+    :background LightGray
+    :border 2px dotted gray
+    
+    :color gray
+    
+    ul
+      :list-style-type none
+      :list-style-position outside
+      :padding 0
+      :margin 0
+      
+      li
+        :padding 5px
+/*      
+  div.circle-100
+    :width 100px
+    :height 100px
+    :background PapayaWhip
+    :-moz-border-radius 50px
+    :-webkit-border-radius 50px
+    
+    :border 4px solid black
+  #menu-button
+    :position absolute
+    :top -50px
+    :left -50px */

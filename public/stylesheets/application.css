@@ -1,10 +1,10 @@
 body {
-  background: #d5d5d5; }
+  background: AliceBlue; }
   body #insert-element-popup {
     display: none;
     position: absolute;
-    top: 2em;
-    left: 2em;
+    top: 1.5em;
+    left: 1.5em;
     background: white;
     border: 4px solid black; }
     body #insert-element-popup #search-box {
@@ -12,3 +12,37 @@ body {
       width: 15em;
       font-size: 1.5em;
       border: none; }
+  body .button {
+    height: 1.5em;
+    width: 5em;
+    font-size: 1em;
+    background: white;
+    border: 2px solid black;
+    color: black; }
+  body #palette {
+    position: absolute;
+    top: 5.5em;
+    left: 1.5em;
+    background: LightGray;
+    border: 2px dotted gray;
+    color: gray; }
+    body #palette ul {
+      list-style-type: none;
+      list-style-position: outside;
+      padding: 0;
+      margin: 0; }
+      body #palette ul li {
+        padding: 5px; }
+
+/* div.circle-100
+ *   :width 100px
+ *   :height 100px
+ *   :background PapayaWhip
+ *   :-moz-border-radius 50px
+ *   :-webkit-border-radius 50px
+ *
+ *   :border 4px solid black
+ * #menu-button
+ *   :position absolute
+ *   :top -50px
+ *   :left -50px */

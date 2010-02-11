@@ -1,11 +1,19 @@
 !!! Strict
 %html
   = stylesheet_link_tag "application"
+  = stylesheet_link_tag "jquery.autocomplete"
   %body
+    -#menu
+      -#menu-button.circle-100/
     #insert-element-popup
       %form{:action => '#', :onsubmit => 'return false;'}
         %input#search-box{:type => 'text'}
         %input#dummy{:style => 'display: none;' }
-      
+    #palette
+      Palette
+      %ul
   = javascript_include_tag "jquery.js"
+  = javascript_include_tag "jquery-ui-1.7.2.custom.min"
+  = javascript_include_tag "jquery.autocomplete.js"
+  = javascript_include_tag "jquery.hotkeys-0.7.9.js"
   = javascript_include_tag "application.js"
